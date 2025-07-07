@@ -1,0 +1,38 @@
+<annotation>
+	<folder>20 -1</folder>
+	<filename>1-1-1-1-.tif</filename>
+	<path>C:\Proyectos Python\imagenes\casos\20 -1\1-1-1-1-.tif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2719</width>
+		<height>2426</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nombrePartido</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>405</xmin>
+			<ymin>48</ymin>
+			<xmax>658</xmax>
+			<ymax>143</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>codPartido</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>680</xmin>
+			<ymin>48</ymin>
+			<xmax>805</xmax>
+			<ymax>148</ymax>
+		</bndbox>
+	</object>
+</annotation>

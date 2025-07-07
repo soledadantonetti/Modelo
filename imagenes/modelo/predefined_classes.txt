@@ -1,0 +1,4 @@
+Matricula
+UF
+CodigoPartido
+NombrePartido

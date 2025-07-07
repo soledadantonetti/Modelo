@@ -1,0 +1,38 @@
+<annotation>
+	<folder>modelo</folder>
+	<filename>00022-17-1.tif</filename>
+	<path>C:\Proyectos Python\imagenes\modelo\00022-17-1.tif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2261</width>
+		<height>2027</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>matricula</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>344</xmin>
+			<ymin>100</ymin>
+			<xmax>415</xmax>
+			<ymax>156</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>codPartido</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>419</xmin>
+			<ymin>94</ymin>
+			<xmax>513</xmax>
+			<ymax>163</ymax>
+		</bndbox>
+	</object>
+</annotation>
